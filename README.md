@@ -10,4 +10,5 @@ Find out, if you so dare...
 
 ## Contents
 
-[Chapter 1 - They Walk the Same](ch1.md)
+- [Chapter 1 - They Walk the Same](ch1.md)
+- [Chapter 2 - Doubts](ch2.md)
