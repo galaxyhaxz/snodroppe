@@ -1,5 +1,9 @@
 # snodroppe
-A story about a future apocalypse where humanity is controlled by neural transmitters. It is best to read this story with word-wrap and a line length of 75-100 characters.
+A story about a future apocalypse where humanity is controlled by neural transmitters.
+
+__Theme: Science-fiction, Horror__
+
+__Format: Word-wrap and a line length of 75-125 characters.__
 
 
 ## Story Brief
