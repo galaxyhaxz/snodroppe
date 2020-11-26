@@ -1,4 +1,4 @@
-# snodroppe
+# Snödroppe
 A story about a future apocalypse where humanity is controlled by neural transmitters.
 
 __Theme: Science-fiction, Horror__
