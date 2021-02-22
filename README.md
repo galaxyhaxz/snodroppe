@@ -5,7 +5,7 @@ __Theme: Science-fiction, Horror__
 
 __Format: LaTex document__
 
-For an optimal reading experience, compile the document with a LaTeX editor into a PDF or format of your choosing!
+For an optimal reading experience a PDF file is provided along with the LaTeX source.
 
 ## Story Brief
 
